@@ -1,0 +1,24 @@
+Ledger ID,Vendor,Amount,Date,Matched Bank ID,Status,Reason
+LED20001,RazorPay Gateway Settlement,184500.0,2026-07-01,BNK20001,MATCHED,Exact reference and amount match
+LED20002,AWS India,32750.0,2026-07-02,BNK20002,MATCHED,Exact reference and amount match
+LED20003,ABC Office Supplies,12840.0,2026-07-03,BNK20003,MATCHED,Exact reference and amount match
+LED20004,Freshdesk Technologies,9150.0,2026-07-04,BNK20004,MATCHED,Exact reference and amount match
+LED20005,Enterprise Client A,96500.0,2026-07-05,BNK20005,MATCHED,Exact reference and amount match
+LED20006,Google Workspace,6850.0,2026-07-06,BNK20006,MATCHED,Exact reference and amount match
+LED20007,Metro Internet Services,4250.0,2026-07-08,BNK20007,MATCHED,Exact reference and amount match
+LED20008,RazorPay Gateway Settlement,143750.0,2026-07-09,BNK20008,MATCHED,Exact reference and amount match
+LED20009,Staff Payroll Account,58200.0,2026-07-11,BNK20009,MATCHED,Exact reference and amount match
+LED20010,Enterprise Client B,67500.0,2026-07-12,BNK20010,MATCHED,Exact reference and amount match
+LED20011,Adobe Creative Cloud,11200.0,2026-07-14,BNK20011,MATCHED,Exact reference and amount match
+LED20012,ABC Office Supplies,24750.0,2026-07-15,—,EXCEPTION,No matching record
+LED20013,Cloudflare,5350.0,2026-07-17,BNK20013,MATCHED,Exact reference and amount match
+LED20014,Enterprise Client C,128000.0,2026-07-19,BNK20014,MATCHED,Exact reference and amount match
+LED20015,Staff Payroll Account,61400.0,2026-07-20,BNK20015,MATCHED,Exact reference and amount match
+LED20016,Office Rent - Chennai,35000.0,2026-07-22,BNK20016,MATCHED,Exact reference and amount match
+LED20017,RazorPay Gateway Settlement,216500.0,2026-07-23,BNK20017,MATCHED,Exact reference and amount match
+LED20018,DigitalOcean,7800.0,2026-07-25,BNK20018,MATCHED,Exact reference and amount match
+LED20019,Legal Consultancy,28500.0,2026-07-26,BNK20019,MATCHED,Exact reference and amount match
+LED20020,Enterprise Client D,152000.0,2026-07-28,BNK20020,MATCHED,Exact reference and amount match
+LED20021,Slack Technologies,4200.0,2026-07-29,BNK20021,MATCHED,Exact reference and amount match
+LED20022,Travel Reimbursement,14650.0,2026-07-30,—,EXCEPTION,No matching record
+LED20023,RazorPay Gateway Settlement,98750.0,2026-07-31,BNK20023,MATCHED,Exact reference and amount match

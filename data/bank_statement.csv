@@ -1,0 +1,29 @@
+transaction_id,date,description,reference,type,amount,remarks
+BNK20001,2026-07-01,RazorPay Gateway Settlement,SETTLE-260701,Credit,184500.00,Settlement received
+BNK20002,2026-07-02,AWS India,AWS-INV-270702,Debit,32750.00,Cloud infrastructure
+BNK20003,2026-07-03,ABC Office Supplies,INV-OS-2048,Debit,12840.00,Office supplies
+BNK20004,2026-07-04,Freshdesk Technologies,FD-270704,Debit,9150.00,Software subscription
+BNK20005,2026-07-05,Enterprise Client A,PAY-270705,Credit,96500.00,Client payment
+BNK20006,2026-07-06,Google Workspace,GW-270706,Debit,6850.00,Business software
+BNK20007,2026-07-08,Metro Internet Services,NET-270708,Debit,4250.00,Internet services
+BNK20008,2026-07-09,RazorPay Gateway Settlement,SETTLE-260709,Credit,143750.00,Settlement received
+BNK20009,2026-07-11,Staff Payroll Account,PAYROLL-0711,Debit,58200.00,Payroll
+BNK20010,2026-07-12,Enterprise Client B,PAY-270712,Credit,67500.00,Client payment
+BNK20011,2026-07-14,Adobe Creative Cloud,ADOBE-0714,Debit,11200.00,Creative software
+BNK20012,2026-07-15,ABC Office Supplies,INV-OS-2081,Debit,25200.00,Office supplies adjustment
+BNK20013,2026-07-17,Cloudflare,CF-270717,Debit,5350.00,Technology services
+BNK20014,2026-07-19,Enterprise Client C,PAY-270719,Credit,128000.00,Client payment
+BNK20015,2026-07-20,Staff Payroll Account,PAYROLL-0720,Debit,61400.00,Payroll
+BNK20016,2026-07-22,Office Rent - Chennai,RENT-JUL26,Debit,35000.00,Office rent
+BNK20017,2026-07-23,RazorPay Gateway Settlement,SETTLE-260723,Credit,216500.00,Settlement received
+BNK20018,2026-07-25,DigitalOcean,DO-270725,Debit,7800.00,Cloud hosting
+BNK20019,2026-07-26,Legal Consultancy,LEGAL-0726,Debit,28500.00,Professional services
+BNK20020,2026-07-28,Enterprise Client D,PAY-270728,Credit,152000.00,Client payment
+BNK20021,2026-07-29,Slack Technologies,SLACK-0729,Debit,4200.00,Team communication
+BNK20022,2026-07-30,Travel Reimbursement,TRAVEL-0730,Debit,13950.00,Travel expenses
+BNK20023,2026-07-31,RazorPay Gateway Settlement,SETTLE-260731,Credit,98750.00,Settlement received
+BNK20024,2026-07-05,Unknown NEFT Credit,NEFT-771245,Credit,42500.00,Unidentified receipt
+BNK20025,2026-07-13,ATM Cash Withdrawal,ATM-7137,Debit,18500.00,Cash withdrawal
+BNK20026,2026-07-18,Unknown Vendor Payment,NEFT-883912,Debit,9650.00,Unrecognized payment
+BNK20027,2026-07-24,Interest Credit,INT-0724,Credit,2350.00,Bank interest
+BNK20028,2026-07-30,Service Charge,BANK-FEE-0730,Debit,1850.00,Bank charges
